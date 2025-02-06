@@ -1,8 +1,7 @@
 ## Olá, eu sou o Jorge Luiz
 
-- 🔭 Atualmente apenas estudando
-- 🌱 Estudando JavaScript, HTML, CSS
-- 😄 Pronouns: ele/dele
+- 🔭 Atualmente estudando JavaScript, HTML, CSS
+
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jorgejuliao&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Jorge Luiz GitHub Stats" /> 
